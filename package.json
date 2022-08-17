@@ -1,0 +1,28 @@
+{
+  "name": "stc-live-preprocessing",
+  "version": "1.0.0",
+  "description": "Preprocessing images of faces for the training of neural networks as they are preprocessed in STC-Live / learning-analytics-live ",
+  "main": "app.js",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.19.0",
+    "@vladmandic/face-api": "^1.7.1",
+    "canvas": "^2.9.3",
+    "console-png": "^1.2.1",
+    "hog-features": "^1.0.0",
+    "image-js": "^0.35.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixboettger/stc-live-preprocessing.git"
+  },
+  "author": "Felix Boettger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixboettger/stc-live-preprocessing/issues"
+  },
+  "homepage": "https://github.com/felixboettger/stc-live-preprocessing#readme"
+}

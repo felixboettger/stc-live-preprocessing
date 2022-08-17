@@ -13,8 +13,8 @@
 
 ### Explanation of output
 
-NI_dataset contains the greyscaled, cropped and masked faces 
-NL_dataset contains the landmarks
-NH_dataset contains the hog values 
+- NI_dataset contains the greyscaled, cropped and masked faces 
+- NL_dataset contains the landmarks
+- NH_dataset contains the hog values 
 
 The folder structure of these folders resembles the original (dataset) folder structure
